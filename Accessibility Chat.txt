@@ -1,0 +1,73 @@
+18:08:17 From  Sheila Saia  to  Everyone : Thanks for hosting this topic! Also, I’m a co-organizer of R-Ladies RTP (a local chapter of R-Ladies Global) and would be fun to link up on an event in the future!
+18:10:07 From  Marcelle Pulley  to  Everyone : I literally was in an Intro to DevOps class this afternoon
+18:12:21 From  Sheila Saia  to  Everyone : Congrats!
+18:12:39 From  Jim Morgan  to  Everyone : A discussion about anti-inclusive experiences people have had with Agile/Scrum/Kanban/DevOps would be useful to me as an Agile Coach
+18:15:02 From  Michelle Wright  to  Everyone : Colorblind!
+18:17:16 From  Cheryl Klein  to  Everyone : I use a tool Datawrapper & they include a colorblind check in the final visualization of the chart/map you are creating.
+18:17:19 From  Michelle Wright  to  Everyone : "Click Here" for all links on a page
+18:18:14 From  Lenore Montalbano  to  Everyone : I taught a web design class and accessibility was a part of the curriculum but nothing specific as to how to design for improved accessibility
+18:26:49 From  Sheila Saia  to  Everyone : Maybe that comes from the Apple minimalist look?
+18:27:39 From  Lenore Montalbano  to  Everyone : it depends on the demographic they are designing for, my students have no problem with contrast but I as an older person need a more discernable contrast.
+18:27:49 From  Cheryl Klein  to  Everyone : Love It!  My iPhone font is larger than the factory setting & it messes things up soooo often!  
+18:29:44 From  Sheila Saia  to  Everyone : I really like using the Color Oracle app for checking for checking color blind friendly content: https://colororacle.org/
+18:30:37 From  marialamardo  to  Everyone : I use this one a lot too: https://webaim.org/resources/contrastchecker/
+18:30:58 From  marialamardo  to  Everyone : They also have this one for the 3:1 link contrast: https://webaim.org/resources/linkcontrastchecker/?fcolor=0000FF&bcolor=FFFFFF
+18:31:02 From  Sheila Saia  to  Everyone : Cool thanks, Maria! Also hi! :)
+18:31:07 From  marialamardo  to  Everyone : HIII!!
+18:33:23 From  Susan Wands  to  Everyone : Change the html language for screen readers
+18:36:56 From  marialamardo  to  Everyone : Ready with Demo when u r ready Susan :)
+18:45:45 From  marialamardo  to  Everyone : https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete
+18:47:00 From  Deb  to  Everyone : What companies do all of you work for that have the budget for this level of accessibility?
+18:47:52 From  Deb  to  Everyone : Also wondering about legal considerations for not doing it.
+18:50:01 From  marialamardo  to  Everyone : https://www.w3.org/WAI/WCAG21/Understanding/identify-input-purpose.html
+18:51:31 From  marialamardo  to  Everyone : https://www.w3.org/WAI/WCAG21/Understanding/on-input
+18:51:38 From  marialamardo  to  Everyone : On Input Criteria
+18:52:00 From  marialamardo  to  Everyone : @deb I work at CVS Health
+18:52:38 From  Michelle Wright  to  Everyone : It usually takes law suits
+18:52:58 From  Deb  to  Everyone : As the developer, am_I_ liable?
+18:53:19 From  Cheryl Klein  to  Everyone : Some universities are really good about it.
+18:53:23 From  Kimberly Burnett  to  Everyone : Are there aspects to accessibility that are most / least important to focus on
+18:53:34 From  Susan Wands  to  Everyone : https://medium.com/@krisrivenburgh/the-ada-checklist-website-compliance-guidelines-for-2019-in-plain-english-123c1d58fad9
+18:53:42 From  Deb  to  Everyone : Thanks!
+18:53:55 From  Michelle Wright  to  Everyone : It's challenging as well because the guidelines are vague and offer multiple ways to satisfy accessibility - definitions of what is acceptable differ
+18:54:18 From  Sheila Saia  to  Everyone : I work at NC State (as a researcher) and they have dedicated staff for web accessibility.
+18:54:42 From  Sheila Saia  to  Everyone : In office of information technologies.
+18:55:26 From  Deb  to  Everyone : My client is a flight school, and the students as pilots can't be blind for example, so I can see that they don't need the site to work well with a screen reader
+18:55:58 From  Michelle Wright  to  Everyone : We did a major project for an online elementary-high school because state laws required accessibility
+18:56:04 From  Sheila Saia  to  Everyone : Universities also have to abide by equal access to education so my thought is that’s why they have so much support.
+18:57:18 From  Sheila Saia  to  Everyone : From what I’ve heard from NC State web accessibility staff is that they always try to air on accessibility b/c legally it’s still early days for digital accessibility.
+18:57:19 From  Kimberly Burnett  to  Everyone : What are some of the easy wins, or highest priority things to focus on first if you want to gradually make things more accessible?
+18:57:47 From  Lenore Montalbano  to  Everyone : So HTML5 is more compatible with accessibility then?
+18:57:48 From  Deb  to  Everyone : Good point
+18:59:23 From  Jim Morgan  to  Everyone : I found that just by reading through the WCAG document taught me a lot of easy changes I could do as I designed the site
+18:59:51 From  Lenore Montalbano  to  Everyone : If I am building a Razor page which is interpreted as HTML5 then the potential for accessibility is better, correct?
+19:00:15 From  Deb  to  Everyone : What do you think about the dislexia font?  https://www.dyslexiefont.com/en/typeface/
+19:00:15 From  Sheila Saia  to  Everyone : I have to go but it was great to learn from you all! Thanks a bunch. :D
+19:07:46 From  marialamardo  to  Everyone : https://docs.google.com/presentation/d/1hbyTcQdPA3eiwY1rM8MVRuIIjfy2TX5mZF1yeBNInXE/edit?usp=sharing
+19:08:13 From  Jim Morgan  to  Everyone : Are there any websites or WordPress plugins that will check a site for accessibility? I've looked for plugins without any luck
+19:09:04 From  marialamardo  to  Everyone : https://www.ibm.com/able/toolkit/tools/
+19:10:11 From  Susan Wands  to  Everyone : Lighthouse tool in google dev tools
+19:10:25 From  Lenore Montalbano  to  Everyone : Thanks great talk, gotta go
+19:11:18 From  marialamardo  to  Everyone : Save this as a bookmark to test the font spacing
+19:11:19 From  marialamardo  to  Everyone : javascript:(function()%7B var style %3D document.createElement(%27style%27), styleContent %3D document.createTextNode(%27* %7B line-height: 1.5 !important%3B letter-spacing: 0.12em !important%3B word-spacing: 0.16em !important%3B %7D p%7B margin-bottom: 2em !important%3B %7D %27)%3B style.appendChild(styleContent )%3B document.getElementsByTagName(%27head%27)%5B0%5D.appendChild(style)%3B var iframes %3D document.querySelectorAll(%27iframe%27)%3Bfor (var i%3D0%3B i<iframes.length%3B i%2B%2B) %7Btry%7Biframes%5Bi%5D.contentWindow.document.getElementsByTagName(%27head%27)%5B0%5D.appendChild(style)%3B %7D catch(error) %7B console.log(%27Bookmarklet error: %27%2Berror)%7D%7D%7D)()%3B
+19:13:55 From  Susan Wands  to  Everyone : http://www.bbc.co.uk/accessibility/
+19:17:39 From  Deb  to  Everyone : Doesn't the screen reader get lost sometimes?
+19:17:57 From  Deb  to  Everyone : What's the best way to learn to use the tools?  What tools do you use?
+19:19:13 From  Deb  to  Everyone : Screen reader
+19:19:29 From  marialamardo  to  Everyone : https://dequeuniversity.com/screenreaders/
+19:20:00 From  marialamardo  to  Everyone : Duque widets
+19:20:03 From  Deb  to  Everyone : JAWS is expensive I heard
+19:20:20 From  marialamardo  to  Everyone : https://dequeuniversity.com/library/aria/
+19:21:46 From  Michelle Frigo  to  Everyone : Here are some alternatives to JAWS that are free:
+19:21:52 From  Michelle Frigo  to  Everyone : Screen Readers
+NVDA - free
+VoiceOver - iOS/Mac integrated
+19:22:01 From  Jim Morgan  to  Everyone : I hate to tell you, but was having that problem with designers 25 years ago, when the issue was called "human factors!"
+19:24:48 From  Jim Morgan  to  Everyone : Usually I find the button won't work because I am blocking trackers they have associated with it
+19:25:49 From  Esther  to  Everyone : yay for a fellow tester!
+19:27:00 From  marialamardo  to  Everyone : https://twitter.com/MariaLamardo/status/1349821584320692225
+19:27:08 From  Deb  to  Everyone : Thank you Maria!
+19:27:58 From  Marcelle Pulley  to  Everyone : Awesome! 
+19:28:15 From  amandajones  to  Everyone : Thank you all! Great resources!
+19:28:19 From  Jim Morgan  to  Everyone : Thanks everyone, very helpful
+19:28:21 From  Marcelle Pulley  to  Everyone : Thanks everyone! 
